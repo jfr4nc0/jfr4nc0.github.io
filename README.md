@@ -2,7 +2,7 @@
 
 ### Joan Franco Canossa
 - Estudiante de Grado: Ingenieria en Sistemas de Informacion.
-- Desarrollador Java.
+- Programador.
 
 ### Skills
 - Programación en lenguajes JAVA 8 y C/C++ 11.
