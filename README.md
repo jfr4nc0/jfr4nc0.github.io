@@ -1,7 +1,7 @@
 ## Portafolio Personal 
 
 ### Joan Franco Canossa
-- Estudiante de Grado: Ingenieria en Sistemas de Informacion.
+- Estudiante de Grado: Ingenieria en Sistemas de Informacion (UTN).
 - Programador.
 
 ### Skills
