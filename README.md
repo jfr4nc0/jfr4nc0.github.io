@@ -5,9 +5,9 @@
 - Programador.
 
 ### Skills
-- Programación en lenguajes JAVA 8 y C/C++ 11.
-- Paradigmas de Programación: POO, Estructurada
-- Herramientas: Git, SpringBoot, Linux Kernel, PgAdmin 4, Eclipse IDE.
+- Programación en lenguajes JAVA 11, C++ 10 y Scala 2.12.
+- Paradigmas de Programación: POO, Funcional, Estructurada. 
+- Herramientas: Git, SpringBoot, Linux Kernel, PgAdmin 4, Eclipse IDE, Maven.
 - Frameworks: Spring, Angular.
 - Sistemas Operativos: GNU/Linux, Windows
 - Bases de datos: MySQL, PostgreSQL.
