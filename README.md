@@ -23,7 +23,6 @@
 - Adaptabilidad.
 - Trabajo en equipo y flexibilidad
 - Honestidad.
-- Administración del tiempo.
 
 ### Intereses Personales:
 - Ingeniería de Software.
