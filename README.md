@@ -17,13 +17,6 @@
 ### Experiencia
 - 1 año en Desarrollo de Software con contribuciones a proyectos Open Source.
 
-### Aptitudes
-- Resolución de problemas y conflictos.
-- Pensamiento Crítico y Analítico.
-- Adaptabilidad.
-- Trabajo en equipo y flexibilidad
-- Honestidad.
-
 ### Intereses Personales:
 - Ingeniería de Software.
 - Machine Learning.
